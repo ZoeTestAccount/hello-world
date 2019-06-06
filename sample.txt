@@ -1,3 +1,5 @@
 Version 2
+This is not the first version
+Not much has changed
 Really only the version number has changed
 End of Version 2
