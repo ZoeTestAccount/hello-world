@@ -1,0 +1,4 @@
+Version 1
+This is the first version
+Eventually it will be changed, but now it is just some explanatory text
+End of Version 1
